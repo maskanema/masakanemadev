@@ -1,0 +1,221 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "1",
+        "link": "https://play.google.com/store/apps/details?id=Masakan+Ema",
+
+        "appid": "pub-5480689084424555",
+        "admobappid": "ca-app-pub-5480689084424555~9432291480",
+        "interid": "ca-app-pub-5480689084424555/7408763372",
+        "bannerid":"ca-app-pub-5480689084424555/3271558888",
+   
+
+
+        "pengaturan_iklan":"1",
+        
+        "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+        "link_update": "https://www.google.com/",
+        "version_app":1,
+        
+        "fan_inter":"YOUR_PLACEMENT_ID",
+        "fan_banner":"YOUR_PLACEMENT_ID",
+   
+   		"startappid":"",
+
+        "hpk_admob1":"insurance",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+  
+
+        }
+    ],
+
+  "music": [
+    {
+      "id" : 1,
+      "judul" : "Ku Lepas Dengan Ikhlas",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "https://archive.org/download/ku-lepas-dengan-ikhlas/Lesti%20-%20Kulepas%20Dengan%20Ikhlas%20Official%20Music%20Video.mp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+    {
+      "id" : 2,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+    {
+      "id" : 3,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+
+    {
+      "id" : 4,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+    {
+      "id" : 5,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+    {
+      "id" : 6,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+    {
+      "id" : 7,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+    {
+      "id" : 8,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+    {
+      "id" : 9,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+	{
+      "id" : 10,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+	{
+      "id" : 11,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+	{
+      "id" : 12,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+	{
+      "id" : 13,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+	{
+      "id" : 14,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+	{
+      "id" : 15,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+	{
+      "id" : 16,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+	{
+      "id" : 17,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+	{
+      "id" : 18,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+	{
+      "id" : 19,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    },
+	{
+      "id" : 20,
+      "judul" : "judul",
+      "host" : "Lesti",
+      "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
+      "link_mp3" : "linkmp3",
+      "lirik" : "linklirik",
+      "durasi" : 90
+    }
+  ]
+
+}
+}
