@@ -45,83 +45,83 @@
     },
     {
       "id" : 2,
-      "judul" : "judul",
+      "judul" : "Ampunilah.mp3 player",
       "host" : "Lesti",
       "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
-      "link_mp3" : "linkmp3",
+      "link_mp3" : "https://archive.org/download/LaguLestiLengkap/Ampunilah.mp3",
       "lirik" : "linklirik",
       "durasi" : 90
     },
     {
       "id" : 3,
-      "judul" : "judul",
+      "judul" : "Zapin Melayu.mp3 ",
       "host" : "Lesti",
       "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
-      "link_mp3" : "linkmp3",
+      "link_mp3" : "https://archive.org/download/LaguLestiLengkap/Zapin%20Melayu.mp3",
       "lirik" : "linklirik",
       "durasi" : 90
     },
 
     {
       "id" : 4,
-      "judul" : "judul",
+      "judul" : "Zaenal.mp3 player",
       "host" : "Lesti",
       "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
-      "link_mp3" : "linkmp3",
+      "link_mp3" : "https://archive.org/download/LaguLestiLengkap/Zaenal.mp3",
       "lirik" : "linklirik",
       "durasi" : 90
     },
     {
       "id" : 5,
-      "judul" : "judul",
+      "judul" : "Tanda Cinta.mp3 player",
       "host" : "Lesti",
       "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
-      "link_mp3" : "linkmp3",
+      "link_mp3" : "https://archive.org/download/LaguLestiLengkap/Tanda%20Cinta.mp3",
       "lirik" : "linklirik",
       "durasi" : 90
     },
     {
       "id" : 6,
-      "judul" : "judul",
+      "judul" : "Si Kecil.mp3 player",
       "host" : "Lesti",
       "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
-      "link_mp3" : "linkmp3",
+      "link_mp3" : "https://archive.org/download/LaguLestiLengkap/Si%20Kecil.mp3",
       "lirik" : "linklirik",
       "durasi" : 90
     },
     {
       "id" : 7,
-      "judul" : "judul",
+      "judul" : "Sabda Cinta.mp3 player",
       "host" : "Lesti",
       "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
-      "link_mp3" : "linkmp3",
+      "link_mp3" : "https://archive.org/download/LaguLestiLengkap/Sabda%20Cinta.mp3",
       "lirik" : "linklirik",
       "durasi" : 90
     },
     {
       "id" : 8,
-      "judul" : "judul",
+      "judul" : "Pokoke Joget.mp3 player",
       "host" : "Lesti",
       "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
-      "link_mp3" : "linkmp3",
+      "link_mp3" : "https://archive.org/download/LaguLestiLengkap/Pokoke%20Joget.mp3",
       "lirik" : "linklirik",
       "durasi" : 90
     },
     {
       "id" : 9,
-      "judul" : "judul",
+      "judul" : "Payung Hitam.mp3 player",
       "host" : "Lesti",
       "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
-      "link_mp3" : "linkmp3",
+      "link_mp3" : "https://archive.org/download/LaguLestiLengkap/Payung%20Hitam.mp3",
       "lirik" : "linklirik",
       "durasi" : 90
     },
 	{
       "id" : 10,
-      "judul" : "judul",
+      "judul" : "Pacar Dunia Akhirat.mp3 player",
       "host" : "Lesti",
       "gambar" : "https://1.bp.blogspot.com/-X6j1TY865Kg/XzHWuu_muzI/AAAAAAAAAJw/yeXhWEtMee4JGD85Lsjv4SPqxy8yNCOXgCLcBGAsYHQ/s512/1-lesti.png",
-      "link_mp3" : "linkmp3",
+      "link_mp3" : "https://archive.org/download/LaguLestiLengkap/Pacar%20Dunia%20Akhirat.mp3",
       "lirik" : "linklirik",
       "durasi" : 90
     },
